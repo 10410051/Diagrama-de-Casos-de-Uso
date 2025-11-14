@@ -9,4 +9,4 @@ Daniel Zacharias Bittar Atui - 10410051
 
 ### Não Funcionais
 
-
+### Link do Diagrama: https://drive.google.com/file/d/1HKvvxCnwcIfksb307WtYeiy3SvW8MQrk/view?usp=sharing
